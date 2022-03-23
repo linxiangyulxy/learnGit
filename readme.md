@@ -1,4 +1,4 @@
-> 参考[廖雪峰Git教程]([Git教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600))
+> [Git教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600)
 
 #### 初始化
 
